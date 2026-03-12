@@ -17,7 +17,7 @@ vanilla extract(optional)
 - 50.0 gram grated dark chocolate
 
 ![Image of a Banoffee pie](recipes/photo_banoffee.jpg)
-
+*Source de l'image : [Cookidoo](https://cookidoo.fr/recipes/recipe/fr-FR/r211888)*
 
 ## Instructions
 
